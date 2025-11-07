@@ -3,7 +3,7 @@ This repository contains the Linux basic commands and screenshots used to comple
 STEP 1 — Creating and Renaming Files/Directories
 Commands:
 mkdir test_dir
-cd test_dir[Linux Basics assignment.pdf](https://github.com/user-attachments/files/23417047/Linux.Basics.assignment.pdf)
+cd test_dir
 
 touch example.txt
 mv example.txt renamed_example.txt
@@ -17,7 +17,8 @@ STEP 3 — Searching for Patterns
 grep "root" /etc/passwd
 
 STEP 4 — Zipping and Unzipping
-zip -r test_dir.zip test_dir
+zip -r test_dir.zip test_dir[Linux_Assignment_Final.docx](https://github.com/user-attachments/files/23417323/Linux_Assignment_Final.docx)
+
 unzip test_dir.zip -d unzipped_dir
 
 STEP 5 — Downloading Files
